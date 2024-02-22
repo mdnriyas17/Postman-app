@@ -26,6 +26,7 @@ function okay() {
               <h6 class="card-title">Region : ${data1[0].PostOffice[i].Region}</h6>
               <h6 class="card-title">State : ${data1[0].PostOffice[i].State}</h6>
               <h6 class="card-title">PIN : ${data1[0].PostOffice[i].Pincode}</h6>
+              <h6 class="card-title">District : ${data1[0].PostOffice[i].District}</h6>
               <h6 class="card-title">Delivery Status : ${data1[0].PostOffice[i].DeliveryStatus}</h6>
             </div>
           </div>
